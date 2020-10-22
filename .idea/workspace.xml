@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bba156f0-8c9e-4b32-9d41-a8fd945d8c17" name="Default Changelist" comment="début quête">
+      <change afterPath="$PROJECT_DIR$/.idea/POO3-Abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bicycle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cars.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Truck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vehicle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MotorWay.php" beforeDir="false" afterPath="$PROJECT_DIR$/MotorWay.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PedestrianWay.php" beforeDir="false" afterPath="$PROJECT_DIR$/PedestrianWay.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResidentialWay.php" beforeDir="false" afterPath="$PROJECT_DIR$/ResidentialWay.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jESpIT9NHe8DEry315IluVv5ri" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bba156f0-8c9e-4b32-9d41-a8fd945d8c17" name="Default Changelist" comment="" />
+      <created>1603367941013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603367941013</updated>
+      <workItem from="1603367943752" duration="3534000" />
+    </task>
+    <task id="LOCAL-00001" summary="début quête">
+      <created>1603371118805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603371118805</updated>
+    </task>
+    <task id="LOCAL-00002" summary="début quête">
+      <created>1603371145440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603371145440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="début quête" />
+    <option name="LAST_COMMIT_MESSAGE" value="début quête" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="865" y="368" key="NewPhpFileDialog" timestamp="1603368257870">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="865" y="368" key="NewPhpFileDialog/0.23.1440.829@0.23.1440.829" timestamp="1603368257870" />
+  </component>
+</project>

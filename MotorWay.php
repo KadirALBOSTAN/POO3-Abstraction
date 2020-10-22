@@ -2,13 +2,15 @@
 
 final class MotorWay extends HighWay
 {
-    protected $nbLane = 4;
-
-    protected $maxSpeed = 130;
-
-    public function addVehicle(vehicle $vehicle)
+    public function __construct(array $currentVehicles)
     {
-        
+        parent::__construct($currentVehicles, 4, 130);
+    }
+
+    public function addVehicle(vehicle $vehicle): void
+    {
+        if ($vehicle instanceof Cars || $vehicle instanceof Truck)
+            $this->currentVehicles[] = $vehicle;
     }
 
 }
